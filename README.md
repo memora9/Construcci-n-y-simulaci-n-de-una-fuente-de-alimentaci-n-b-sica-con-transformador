@@ -7,7 +7,8 @@ Objetivos Específicos:
 •	Diseñar una simulación del proyecto para compararlo con el resultado real obtenido.
 •	Crear un circuito que logre transformar corriente alterna a corriente continua.
 2. MATERIAL Y EQUIPO REQUERDIDO
-![2 Material y equipo requerido](https://user-images.githubusercontent.com/93946423/156900042-1cf75cc4-2b61-42af-bad7-f70891938d7f.png)
+![Material y equipo requerido](https://user-images.githubusercontent.com/93946423/156901356-1f5443f2-874f-4367-807c-ad6a264c5716.png)
+
 
 3. MARCO TEÓRICO
  ![image](https://user-images.githubusercontent.com/93946423/156900213-7ec7abbb-bd49-4d95-b599-d29138f3a89c.png)
