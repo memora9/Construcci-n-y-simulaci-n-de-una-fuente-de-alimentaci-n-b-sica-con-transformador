@@ -27,3 +27,5 @@ Objetivos Específicos:
 •	Para el desarrollo de esta práctica, se procedió primero a realizar una simulación del circuito armado en el simulador MULTISIM para comprobar el correcto funcionamiento del mismo.
 
 •	El elemento más importante del proyecto es el trasformador el cual permite modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, en este caso va a disminuir siendo el trasformador de 220/120 Voltios de entrada a 9 voltios de salida, y como se observa en la figura 1 el voltaje en corriente alterna es de 11.68 V aproximadamente.
+![image](https://user-images.githubusercontent.com/93946423/156902768-31d27bf8-8dd0-44fc-9312-73a0994f4760.png)
+
