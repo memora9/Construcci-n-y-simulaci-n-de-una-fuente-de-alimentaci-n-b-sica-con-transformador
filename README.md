@@ -10,7 +10,8 @@ Objetivos Específicos:
 ![2 Material y equipo requerido](https://user-images.githubusercontent.com/93946423/156900042-1cf75cc4-2b61-42af-bad7-f70891938d7f.png)
 
 3. MARCO TEÓRICO
-4. ![image](https://user-images.githubusercontent.com/93946423/156900213-7ec7abbb-bd49-4d95-b599-d29138f3a89c.png)
+ ![image](https://user-images.githubusercontent.com/93946423/156900213-7ec7abbb-bd49-4d95-b599-d29138f3a89c.png)
+ 
 4. EXPLICACIÓN DEL PROCEDIMIENTO
    
    4.1.Simulación del circuito
