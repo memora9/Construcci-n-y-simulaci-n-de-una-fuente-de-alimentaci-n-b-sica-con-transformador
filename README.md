@@ -1,6 +1,7 @@
 Construcción y simulación de una fuente de alimentación básica con transformador
 Trabajo extra-Construcción de un timbre eléctrico con Electroimán
 1. OBJETIVOS
+
 Objetivo General:
 
 •	Construcción y simulación de fuente de alimentación básica regulable de hasta 15 voltios de corriente continua, con la implementación de un trasformador.
