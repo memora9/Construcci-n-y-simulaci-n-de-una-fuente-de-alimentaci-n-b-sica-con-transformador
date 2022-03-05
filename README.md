@@ -14,7 +14,7 @@ Objetivos Específicos:
 
 2. MATERIAL Y EQUIPO REQUERDIDO
 
-![2 Material y equipo requerido](https://user-images.githubusercontent.com/93946423/156901387-755395fa-05d5-4a6c-a250-17dd4773c651.png)
+ ![2 Material y equipo requerido](https://user-images.githubusercontent.com/93946423/156901387-755395fa-05d5-4a6c-a250-17dd4773c651.png)
 
 
 
