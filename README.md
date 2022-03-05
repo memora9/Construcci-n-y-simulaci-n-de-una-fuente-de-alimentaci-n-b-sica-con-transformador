@@ -4,9 +4,13 @@ Trabajo extra-Construcción de un timbre eléctrico con Electroimán
 Objetivo General:
 
 •	Construcción y simulación de fuente de alimentación básica regulable de hasta 15 voltios de corriente continua, con la implementación de un trasformador.
+
 Objetivos Específicos:
+
 •	Diseñar una simulación del proyecto para compararlo con el resultado real obtenido.
+
 •	Crear un circuito que logre transformar corriente alterna a corriente continua.
+
 2. MATERIAL Y EQUIPO REQUERDIDO
 
 ![2 Material y equipo requerido](https://user-images.githubusercontent.com/93946423/156901387-755395fa-05d5-4a6c-a250-17dd4773c651.png)
