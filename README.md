@@ -27,7 +27,7 @@ Objetivos Específicos:
 •	Para el desarrollo de esta práctica, se procedió primero a realizar una simulación del circuito armado en el simulador MULTISIM para comprobar el correcto funcionamiento del mismo.
 
 •	El elemento más importante del proyecto es el trasformador el cual permite modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, en este caso va a disminuir siendo el trasformador de 220/120 Voltios de entrada a 9 voltios de salida, y como se observa en la figura 1 el voltaje en corriente alterna es de 11.68 V aproximadamente.
-![image](https://user-images.githubusercontent.com/93946423/156902778-2ecc6076-7588-4464-920b-93232c159c34.png)
+![image](https://user-images.githubusercontent.com/93946423/156907328-0d998d85-d75b-43c0-b3da-73d87f1032cd.png)
 
 •	El siguiente elemento indispensable son los diodos rectificadores, específicamente un puente de diodos rectificadores cuya función es rectificar la corriente alterna (CA) en corriente continua (CC), en la figura 3 se muestra el voltaje rectificado en corriente continua, siendo este de 10.35 voltios aproximadamente.
 ![image](https://user-images.githubusercontent.com/93946423/156904381-9b642ed8-f26b-4d9d-82af-e343af118fea.png)
