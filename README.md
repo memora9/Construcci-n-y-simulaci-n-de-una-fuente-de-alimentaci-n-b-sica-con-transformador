@@ -40,7 +40,9 @@ Objetivos Específicos:
 
 •	Finalmente agregamos un potenciómetro de 10k Ohms para regular el voltaje.
 •	En la figura 5, podemos observar que al momento de mover la perilla del potenciómetro en su máximo valor el voltaje llega hasta 15.23 voltios (CC). aproximadamente. 
-![image](https://user-images.githubusercontent.com/93946423/156908252-9d039048-11cb-4d29-9b50-88c812449158.png)
+![image](https://user-images.githubusercontent.com/93946423/156908265-b55ca94c-e17e-41cc-b986-fbb96a1d835e.png)
+
+
 
 
 
