@@ -45,6 +45,8 @@ Creación del circuito
 •	Una vez realizado la simulación del circuito, se procede a armarlo, primero se realiza las conexiones del transformador con la corriente eléctrica alterna con la ayuda de los bornes y el cable de alimentación, posteriormente se conecta al protobard y se mide el voltaje (AC).
 •	Como se observa en la figura 6 el voltaje (AC) es de 11.6 Voltios y en la simulación un voltaje de 11.68 siendo los dos valores cercanos.
 
+![image](https://user-images.githubusercontent.com/93946423/156940182-16ac0c4c-3871-4801-9096-abeddc078eb0.png)
+
 
 
 
