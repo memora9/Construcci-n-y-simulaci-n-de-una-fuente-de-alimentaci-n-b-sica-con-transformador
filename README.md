@@ -51,7 +51,19 @@ Creación del circuito
 •	Se procede a instalar el puente rectificador de diodos  (1n4007) en la protoboard , de tal manera que queden en serie de forma cuadrangular, se mide el voltaje (CC) rectificado.
 •	En la figura 7 se observa  que el voltaje (CC) es de 10.22 Voltios mientras que en la simulación da como resultado 10.35 voltios.
 
+
 ![image](https://user-images.githubusercontent.com/93946423/156940298-8b0e38db-b562-40b2-aa51-225af7242e52.png)
+
+•	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
+•	En la figura 8 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 15.93 voltios (CC)  minetras que en la simulación da 15.81 Voltios aproximadamente.
+![image](https://user-images.githubusercontent.com/93946423/156940355-8d145a74-54e1-412e-bdba-552beb93babc.png)
+•	Finalmente se instala el potenciómetro de 10kOhms para regular el voltaje(CC)
+
+Como se observa en la figura 9 la perilla del potenciómetro está en su máximo valor, y el voltaje que arroja es de 15.22 voltios (CC), mientras que en el simulador fue 15.23 voltios (CC) siendo estos dos valores equivalentes.
+![image](https://user-images.githubusercontent.com/93946423/156940379-6aafbe1b-1a68-4e34-a13f-639a04389665.png)
+
+•	Tenemos una fuente de alimentación básica regulable que puede ir desde hasta 15 voltios.22 (CC) aproximadamente.
+
 
 
 
