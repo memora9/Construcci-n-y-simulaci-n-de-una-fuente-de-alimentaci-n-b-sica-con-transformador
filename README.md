@@ -30,6 +30,8 @@ Objetivos Específicos:
 ![image](https://user-images.githubusercontent.com/93946423/156902778-2ecc6076-7588-4464-920b-93232c159c34.png)
 
 •	El siguiente elemento indispensable son los diodos rectificadores, específicamente un puente de diodos rectificadores cuya función es rectificar la corriente alterna (CA) en corriente continua (CC), en la figura 3 se muestra el voltaje rectificado en corriente continua, siendo este de 10.35 voltios aproximadamente.
+![image](https://user-images.githubusercontent.com/93946423/156904334-27c92b96-2a16-4cbd-8781-3763ba8eb538.png)
+
 
 
 
