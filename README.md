@@ -46,8 +46,13 @@ Creación del circuito
 •	Como se observa en la figura 6 el voltaje (AC) es de 11.6 Voltios y en la simulación un voltaje de 11.68 siendo los dos valores cercanos.
 
 ![image](https://user-images.githubusercontent.com/93946423/156940182-16ac0c4c-3871-4801-9096-abeddc078eb0.png)
+
+
 •	Se procede a instalar el puente rectificador de diodos  (1n4007) en la protoboard , de tal manera que queden en serie de forma cuadrangular, se mide el voltaje (CC) rectificado.
 •	En la figura 7 se observa  que el voltaje (CC) es de 10.22 Voltios mientras que en la simulación da como resultado 10.35 voltios.
+
+![image](https://user-images.githubusercontent.com/93946423/156940298-8b0e38db-b562-40b2-aa51-225af7242e52.png)
+
 
 
 
