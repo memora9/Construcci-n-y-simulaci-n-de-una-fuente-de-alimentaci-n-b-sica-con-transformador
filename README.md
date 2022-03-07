@@ -73,7 +73,7 @@ Objetivos Específicos:
 Como se observa en la Ilustracion 8 la perilla del potenciómetro está en su máximo valor, y el voltaje que arroja es de 15.22 voltios (CC), mientras que en el simulador fue 15.23 voltios (CC) siendo estos dos valores equivalentes.
 ![image](https://user-images.githubusercontent.com/93946423/157068043-7f8620b0-b47a-4bcc-a88e-39771b846f9c.png)
 
-•	Tenemos una fuente de alimentación básica regulable que puede ir desde hasta 15 voltios.22 (CC) aproximadamente.
+•	Tenemos una fuente de alimentación básica regulable que puede ir desde hasta 15.22 Voltios (CC) aproximadamente.
 
 5. VIDEO
 
