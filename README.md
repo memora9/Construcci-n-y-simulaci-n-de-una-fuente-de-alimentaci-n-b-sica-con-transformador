@@ -54,7 +54,8 @@ Creación del circuito
 •	En la figura 7 se observa  que el voltaje (CC) es de 10.22 Voltios mientras que en la simulación da como resultado 10.35 voltios.
 
 
-![image](https://user-images.githubusercontent.com/93946423/156940298-8b0e38db-b562-40b2-aa51-225af7242e52.png)
+![image](https://user-images.githubusercontent.com/93946423/157066212-371e7c46-ccac-45d0-9ce8-e2724a16afe9.png)
+
 
 •	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
 •	En la figura 8 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 15.93 voltios (CC)  minetras que en la simulación da 15.81 Voltios aproximadamente.
