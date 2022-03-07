@@ -37,6 +37,7 @@ Objetivos Específicos:
 
 
 •	El siguiente elemento es un capacitor específicamente un condensador electrolítico de 220 microfaradios a 16 voltios, que almacenara la energía en forma de carga eléctrica.
+
 •	En la Ilustracion 3 se puede observar el voltaje medido una vez instalado el condensador lo cual arroja un valor de 15.81 voltios (CC) aproximadamente
 
 
@@ -44,6 +45,7 @@ Objetivos Específicos:
 ![image](https://user-images.githubusercontent.com/93946423/156908035-ce1e0170-11db-497a-aebb-aaab59fec50f.png)
 
 •	Finalmente agregamos un potenciómetro de 10k Ohms para regular el voltaje.
+
 •	En la Ilustracion 4, podemos observar que al momento de mover la perilla del potenciómetro en su máximo valor el voltaje llega hasta 15.23 voltios (CC). aproximadamente. 
 ![image](https://user-images.githubusercontent.com/93946423/156908265-b55ca94c-e17e-41cc-b986-fbb96a1d835e.png)
 
@@ -57,6 +59,7 @@ Objetivos Específicos:
 
 
 •	Se procede a instalar el puente rectificador de diodos  (1n4007) en la protoboard , de tal manera que queden en serie de forma cuadrangular, se mide el voltaje (CC) rectificado.
+
 •	En la Ilustracion 6 se observa  que el voltaje (CC) es de 10.22 Voltios mientras que en la simulación da como resultado 10.35 voltios.
 
 
