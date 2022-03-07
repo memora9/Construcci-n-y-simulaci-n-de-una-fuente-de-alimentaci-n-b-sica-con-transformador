@@ -60,6 +60,7 @@ Creación del circuito
 •	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
 •	En la figura 8 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 15.93 voltios (CC)  minetras que en la simulación da 15.81 Voltios aproximadamente.
 ![image](https://user-images.githubusercontent.com/93946423/157067699-60de12fe-16c1-43e7-a7ae-287ad61e0d69.png)
+
 •	Finalmente se instala el potenciómetro de 10kOhms para regular el voltaje(CC)
 
 Como se observa en la figura 9 la perilla del potenciómetro está en su máximo valor, y el voltaje que arroja es de 15.22 voltios (CC), mientras que en el simulador fue 15.23 voltios (CC) siendo estos dos valores equivalentes.
