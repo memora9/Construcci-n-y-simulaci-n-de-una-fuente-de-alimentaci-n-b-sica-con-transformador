@@ -69,12 +69,16 @@ Como se observa en la figura 9 la perilla del potenciómetro está en su máximo
 •	Tenemos una fuente de alimentación básica regulable que puede ir desde hasta 15 voltios.22 (CC) aproximadamente.
 
 5. VIDEO
+
 https://www.youtube.com/watch?v=OMANB2FrWHI
 6. CONCLUSIONES
+
 •	El transformador puede modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, y si a eso instalamos un puente de diodos rectificador este rectifica  la tensión en la corriente alterna dando como resultado un voltaje rectificado en corriente continua, si a dicha corriente la agregamos además un condensador electrolítico este almacenara la energía en forma de carga eléctrica y con la ayuda del potenciómetro podemos regular esta fuente de alimentación.
 
+7.Bibliografia
 
-
+ElectronicaLED.(26 de Diciembre del 2020).Fuente de alimentación de 9v con transformador. Fácil de hacer.
+https://www.youtube.com/watch?v=9WrKlmaXLkQ
 
 
 
