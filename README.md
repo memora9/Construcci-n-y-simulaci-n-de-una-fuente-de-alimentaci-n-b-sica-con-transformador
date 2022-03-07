@@ -4,7 +4,7 @@ Construcción y simulación de una fuente de alimentación básica con transform
 
 Objetivo General:
 
-•	Construcción y simulación de fuente de alimentación básica regulable de hasta 15 voltios de corriente continua, con la implementación de un trasformador.
+•	Construcción y simulación de fuente de alimentación básica regulable de corriente continua, con la implementación de un trasformador.
 
 Objetivos Específicos:
 
