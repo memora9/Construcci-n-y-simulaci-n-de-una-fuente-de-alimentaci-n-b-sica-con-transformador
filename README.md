@@ -77,6 +77,11 @@ https://www.youtube.com/watch?v=OMANB2FrWHI
 
 7.Bibliografia
 
+Torre. F.(2019). Transformadores-Accionamientos electromecanicos.
+
+https://rephip.unr.edu.ar/bitstream/handle/2133/16745/21503-19%20ACCIONAMIENTOS%20ELECTROMEC%C3%81NICOS%20Transformadores.pdf?sequence=3&isAllowed=y
+
+
 ElectronicaLED.(26 de Diciembre del 2020).Fuente de alimentación de 9v con transformador. Fácil de hacer.
 https://www.youtube.com/watch?v=9WrKlmaXLkQ
 
