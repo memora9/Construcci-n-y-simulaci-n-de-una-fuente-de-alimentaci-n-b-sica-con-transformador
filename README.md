@@ -12,6 +12,8 @@ Objetivos Específicos:
 
 •	Crear un circuito que logre transformar corriente alterna a corriente continua.
 
+•Obtener una fuente de alimentacion basica mayor o igual a 15 voltios.
+
 2. MATERIAL Y EQUIPO REQUERDIDO
 
 ![image](https://user-images.githubusercontent.com/93946423/157068539-380d11fa-6328-40dc-821a-8d64dfd7bfb5.png)
