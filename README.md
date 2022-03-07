@@ -30,7 +30,9 @@ Objetivos Específicos:
 •	El elemento más importante del proyecto es el trasformador el cual permite modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, en este caso va a disminuir siendo el trasformador de 220/120 Voltios de entrada a 9 voltios de salida, y como se observa en la Ilustracion 1 el voltaje en corriente alterna es de 11.68 V aproximadamente.
 ![image](https://user-images.githubusercontent.com/93946423/156907359-afa94dd9-3f4c-4c95-907e-e77b45ee07ad.png)
 
-•	El siguiente elemento indispensable son los diodos rectificadores, específicamente un puente de diodos rectificadores cuya función es rectificar la corriente alterna (CA) en corriente continua (CC), en la Ilustracion 2 se muestra el voltaje rectificado en corriente continua, siendo este de 10.35 voltios aproximadamente.
+•	El siguiente elemento indispensable son los diodos rectificadores, específicamente un puente de diodos rectificadores cuya función es rectificar la corriente alterna (CA) en corriente continua (CC)
+
+• En la Ilustracion 2 se muestra el voltaje rectificado en corriente continua, siendo este de 10.35 voltios aproximadamente.
 ![image](https://user-images.githubusercontent.com/93946423/156907705-ca8b7f9d-9491-4ca2-9e5a-72035ce1afa1.png)
 
 
