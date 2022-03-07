@@ -1,5 +1,5 @@
 Construcción y simulación de una fuente de alimentación básica con transformador
-Trabajo extra-Construcción de un timbre eléctrico con Electroimán
+
 1. OBJETIVOS
 
 Objetivo General:
