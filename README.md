@@ -73,7 +73,8 @@ Objetivos Específicos:
 
 •	Finalmente se instala el potenciómetro de 10kOhms para regular el voltaje(CC)
 
-Como se observa en la Ilustracion 8 la perilla del potenciómetro está en su máximo valor, y el voltaje que arroja es de 15.22 voltios (CC), mientras que en el simulador fue 15.23 voltios (CC) siendo estos dos valores equivalentes.
+• Como se observa en la Ilustracion 8 la perilla del potenciómetro está en su máximo valor, y el voltaje que arroja es de 15.22 voltios (CC), mientras que en el simulador fue 15.23 voltios (CC) siendo estos dos valores equivalentes.
+
 ![image](https://user-images.githubusercontent.com/93946423/157068043-7f8620b0-b47a-4bcc-a88e-39771b846f9c.png)
 
 •	Tenemos una fuente de alimentación básica regulable que puede ir desde hasta 15.22 Voltios (CC) aproximadamente.
