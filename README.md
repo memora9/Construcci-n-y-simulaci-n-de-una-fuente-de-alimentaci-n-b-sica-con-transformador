@@ -42,11 +42,12 @@ Objetivos Específicos:
 
 •	El siguiente elemento es un capacitor específicamente un condensador electrolítico de 220 microfaradios a 16 voltios, que almacenara la energía en forma de carga eléctrica.
 
-•	En la Ilustracion 3 se puede observar el voltaje medido una vez instalado el condensador lo cual arroja un valor de 15.81 voltios (CC) aproximadamente
+•	En la Ilustracion 3 se puede observar el voltaje medido una vez instalado el condensador lo cual arroja un valor de 16.05 voltios (CC) aproximadamente
 
 
+![image](https://user-images.githubusercontent.com/93946423/157092497-f36fcace-4894-450b-bb54-989f69f61924.png)
 
-![image](https://user-images.githubusercontent.com/93946423/156908035-ce1e0170-11db-497a-aebb-aaab59fec50f.png)
+
 
 •	Finalmente agregamos un potenciómetro de 10k Ohms para regular el voltaje.
 
