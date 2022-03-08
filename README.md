@@ -74,7 +74,7 @@ Objetivos Específicos:
 
 •	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
 
-•	En la Ilustracion 7 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 16.05 voltios (CC)  minetras que en la simulación da 15.81 Voltios aproximadamente.
+•	En la Ilustracion 7 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 16.05 voltios (CC)  minetras que en la simulación da 16.05 Voltios aproximadamente.
 
 ![image](https://user-images.githubusercontent.com/93946423/157304431-d4b0d87d-2dec-4df7-ae7d-a1bf2419b69b.png)
 
