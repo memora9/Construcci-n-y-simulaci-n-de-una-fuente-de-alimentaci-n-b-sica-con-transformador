@@ -92,7 +92,15 @@ https://www.youtube.com/watch?v=OMANB2FrWHI
 
 6. CONCLUSIONES
 
-•	El transformador puede modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, y si a eso instalamos un puente de diodos rectificador este rectifica  la tensión en la corriente alterna dando como resultado un voltaje rectificado en corriente continua, si a dicha corriente la agregamos además un condensador electrolítico este almacenara la energía en forma de carga eléctrica y con la ayuda del potenciómetro podemos regular esta fuente de alimentación.
+•	El transformador puede modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión.
+
+•El puente de diodos rectifico la corriente alterna.dando como resultado un voltaje rectificado en corriente continua.
+
+• El condenador electrolítico almacena la energía en forma de carga eléctrica.
+
+•Con la ayuda del potenciómetro se logró  regular la tension, teniendo una fuente de alimentacion regulable.
+
+
 
 7.BIBLIOGRAFIA
 
